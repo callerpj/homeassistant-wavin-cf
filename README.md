@@ -1,7 +1,7 @@
 # homeassistant-wavin
 Home assistant integration for Wavin AHC9000 via USB RS485
 Fork of plazmdk's repository
-## this version gets a config_floe for future compatibility
+## this version gets a config_flow for future compatibility
 
 ![Example view in home assistant](https://user-images.githubusercontent.com/1448145/72713504-6f1f0780-3b6d-11ea-9286-8a1cad3fe56e.png)
 
